@@ -1,2 +1,3 @@
-# weather-ware
+# Weather Ware
+
 expo weather app
